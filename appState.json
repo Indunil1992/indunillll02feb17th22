@@ -1,0 +1,99 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "8fdfc9e3-dfa2-4b21-85fb-7884130d7568": {
+        "id": "8fdfc9e3-dfa2-4b21-85fb-7884130d7568",
+        "parent": null,
+        "name": "indunillll02Feb17th22.py",
+        "type": "PYTHON_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "indunillll02Feb17th22.py",
+        "cursor": {
+          "lineNumber": 26,
+          "column": 48
+        },
+        "config": {
+          "runtime": "python3.9",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "indunillll02Feb17th22"
+        },
+        "triggers": [],
+        "lastUpdated": 1645082048118
+      },
+      "855985cf-4ff3-482f-aafa-1990eba046b4": {
+        "id": "855985cf-4ff3-482f-aafa-1990eba046b4",
+        "parent": null,
+        "name": "requirements.txt",
+        "type": "TEXT_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "requirements.txt"
+      }
+    },
+    "openFiles": [
+      "8fdfc9e3-dfa2-4b21-85fb-7884130d7568"
+    ],
+    "currentFileId": "8fdfc9e3-dfa2-4b21-85fb-7884130d7568",
+    "resources": {
+      "ses-indunil@adroitlogic.com": {
+        "name": "ses-indunil@adroitlogic.com",
+        "type": "SES",
+        "config": {
+          "selectedIdentity": "indunil@adroitlogic.com",
+          "projectRegion": "us-east-1"
+        }
+      }
+    },
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {
+        "boto3": {
+          "name": "boto3",
+          "language": "python",
+          "version": "1.16.43",
+          "dev": true,
+          "notRemovable": false
+        }
+      }
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.9.5.2",
+    "projectName": "indunillll02Feb17th22",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "python",
+    "platformRegions": {},
+    "lastSave": 1645082053178
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "indunillll02feb17th22",
+      "url": "https://github.com/Indunil1992/indunillll02feb17th22"
+    }
+  }
+}
